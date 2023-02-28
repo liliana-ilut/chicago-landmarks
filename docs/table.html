@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- <html> -->
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- <meta charset="utf-8"> -->
+  <title id="h2">Chicago Landmarks</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../static/css/styletable.css">
+  <!-- Bootstrap CSS -->
+  
+
+</head>
+
+<body>
+  
+<!-- <div class="navigation"> -->
+  
+
+    <div class="wrapper">
+   
+      <div class="navigation">
+        <div class="row">
+          <div class="col-2" style="background-color: black">
+            <a href="index.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Home</strong></a>
+          </div>
+          <div class="col-2" style="background-color: black">
+            <a href="table.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Data Table</strong></a>
+          </div> 
+          <!-- <div class="col-2" style="background-color: black">
+            <a href="ml.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Machine Learning</strong></a>
+          </div>
+              <div class="col-2" style="background-color: black"> 
+                <a href="graph.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Country Graphs</strong></a>
+              </div> 
+               <div class="col-2" style="background-color: black">
+                <a href="tableau.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Time Lapse Map</strong></a>
+              </div> 
+              <div class="col-2" style="background-color: black">
+              <a href="tableau2.html" class="btn" role="button" aria-pressed="true" style="color: rgb(231, 14, 195)"><strong>Demographics</strong></a>
+              </div>  -->
+        </div>
+      </div>
+      
+    </nav>
+    <div class="hero text-center">
+    </div>
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-2">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-heading">Filter Search</div>
+              <div class="panel-body">
+                <form>
+                  <div class="form-group">
+                    <ul class="list-group" id="filters">
+                      <li class="filter list-group-item">
+                        <label for="country">Year</label>
+                        <input class="form-control" id="country" type="text" placeholder="country">
+                      </li>
+                    </ul>
+                  </div>
+                  
+                  <button id="filter-btn" type="button" class="btn btn-default">Filter Table</button>
+                  <button id="reset-btn" type="reset" class="btn btn-default btn-lg btn-block">Reset Table</button>
+
+                 
+                </form>
+              </div>
+            </div>
+          </aside>
+        </div>
+        <div class="col-md-10">
+          <div id="table-area" class="">
+            <table id="table" class="table">
+            <!-- <table id="women" class="table table-striped"> -->
+              <thead>
+                <tr>
+                  <th class="table-head">landmark_name</th>
+                  <th class="table-head">id</th>
+                  <th class="table-head">landmark_address</th>
+                  <th class="table-head">designation_year</th>
+                  <th class="table-head">start_built_year</th>
+                  <th class="table-head">recognize_time</th>
+                  <th class="table-head">architect</th>
+                  <th class="table-head">latitude</th>
+                  <th class="table-head">longitude</th>
+                  <th class="table-head">landmark_designation_date</th>
+                  <th class="table-head">location</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="../static/js/table.js"></script>
+ 
+  <footer>
+    <p style="text-align: center">Chicago Landmarks <i
+            class="glyphicon glyphicon-copyright-mark"> </i>
+        2023.
+        All Rights Reserved</p>
+
+</footer>
+</body>
+
+</html>

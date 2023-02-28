@@ -1,4 +1,4 @@
-landmark_name,id,address,designation_year,start_built_year,recognize_time,architect,latitude,longitude,landmark_designation_date,location
+landmark_name,id,landmark_address,designation_year,start_built_year,recognize_time,architect,latitude,longitude,landmark_designation_date,location
 Mathilde Eliel House,L- 89,4122 S Ellis Av,1991,1886,105,Adler & Sullivan,41.81925575100,-87.60278799920,1991-10-02,"{'latitude': '41.819255751', 'longitude': '-87.6027879992'}"
 Manhattan Building,L-139,431 S Dearborn St,1978,1891,87,William LeBaron Jenney,41.87606572340,-87.62896445050,1978-07-07,"{'latitude': '41.8760657234', 'longitude': '-87.6289644505'}"
 Machinery Hall at Illinois Institute of Technology,L- 12,100 W 33rd St,2004,1901,103,"Patton, Fisher & Miller",41.83516141220,-87.62922122350,2004-05-26,"{'latitude': '41.8351614122', 'longitude': '-87.6292212235'}"
