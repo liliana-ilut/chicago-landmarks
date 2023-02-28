@@ -9,8 +9,7 @@ var markers = [
       architect: 'Adler & Sullivan',
       lat: 41.819255751,
       lng: -87.6027879992,
-      landmark_designation_date: '1991-10-02',
-      location: '{'latitude': '41.819255751', 'longitude': '-87.6027879992'}'
+      landmark_designation_date: '1991-10-02'
     },
     {
       landmark_name: 'Manhattan Building',
@@ -886,8 +885,7 @@ var markers = [
       architect: 'Graham, Anderson, Probst & White',
       lat: 41.8825337488,
       lng: -87.6375130036,
-      landmark_designation_date: '1998-02-05',
-      location: '{'latitude': '41.8825337488', 'longitude': '-87.6375130036'}'
+      landmark_designation_date: '1998-02-05'
     },
     {
       landmark_name: 'Engine Company 84, Truck 51',
@@ -899,8 +897,7 @@ var markers = [
       architect: 'Paul Gerhardt, Jr.',
       lat: 41.7812663113,
       lng: -87.6463969977,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.7812663113', 'longitude': '-87.6463969977'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Majestic Building and Theater',
@@ -912,8 +909,7 @@ var markers = [
       architect: 'Edmund R. Krause',
       lat: 41.8810785557,
       lng: -87.6285777569,
-      landmark_designation_date: '2005-05-11',
-      location: '{'latitude': '41.8810785557', 'longitude': '-87.6285777569'}'
+      landmark_designation_date: '2005-05-11'
     },
     {
       landmark_name: '(Former) Schlitz Brewery-Tied House@1801W.Division',
@@ -925,8 +921,7 @@ var markers = [
       architect: 'Fritz Lang',
       lat: 41.9030132443,
       lng: -87.6725414477,
-      landmark_designation_date: '2011-05-04',
-      location: '{'latitude': '41.9030132443', 'longitude': '-87.6725414477'}'
+      landmark_designation_date: '2011-05-04'
     },
     {
       landmark_name: 'Engine Company 5, Truck 2',
@@ -938,8 +933,7 @@ var markers = [
       architect: 'Alfred S. Alschulter',
       lat: 41.87718066,
       lng: -87.6443086397,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.87718066', 'longitude': '-87.6443086397'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'John Wingert House',
@@ -951,8 +945,7 @@ var markers = [
       architect: 'Add. c. 1868-75 Architect Unknown',
       lat: 41.9943088493,
       lng: -87.8216065907,
-      landmark_designation_date: '1990-07-31',
-      location: '{'latitude': '41.9943088493', 'longitude': '-87.8216065907'}'
+      landmark_designation_date: '1990-07-31'
     },
     {
       landmark_name: 'Richard Nickel Studio',
@@ -964,8 +957,7 @@ var markers = [
       architect: 'Unknown',
       lat: 41.916279821,
       lng: -87.673241177,
-      landmark_designation_date: '2010-06-09',
-      location: '{'latitude': '41.916279821', 'longitude': '-87.673241177'}'
+      landmark_designation_date: '2010-06-09'
     },
     {
       landmark_name: 'Germania Club Building',
@@ -977,8 +969,7 @@ var markers = [
       architect: 'Addison  and Fiedler',
       lat: 41.9106132428,
       lng: -87.6320775815,
-      landmark_designation_date: '2011-01-13',
-      location: '{'latitude': '41.9106132428', 'longitude': '-87.6320775815'}'
+      landmark_designation_date: '2011-01-13'
     },
     {
       landmark_name: 'Laramie State Bank Building',
@@ -990,8 +981,7 @@ var markers = [
       architect: 'Meyer & Cook with Northwestern Terra Cotta Co.',
       lat: 41.8952077596,
       lng: -87.7558375828,
-      landmark_designation_date: '1995-06-14',
-      location: '{'latitude': '41.8952077596', 'longitude': '-87.7558375828'}'
+      landmark_designation_date: '1995-06-14'
     },
     {
       landmark_name: 'Ida B. Wells-Barnett House',
@@ -1003,8 +993,7 @@ var markers = [
       architect: 'Joseph A. Thain',
       lat: 41.8285919899,
       lng: -87.6177320886,
-      landmark_designation_date: '1995-10-02',
-      location: '{'latitude': '41.8285919899', 'longitude': '-87.6177320886'}'
+      landmark_designation_date: '1995-10-02'
     },
     {
       landmark_name: 'Clarence Buckingham Memorial Fountain and Garden',
@@ -1016,8 +1005,7 @@ var markers = [
       architect: 'Bennett, Parsons & Frost with Jacques Lambert',
       lat: 41.8757971904,
       lng: -87.6189879276,
-      landmark_designation_date: '2000-08-30',
-      location: '{'latitude': '41.8757971904', 'longitude': '-87.6189879276'}'
+      landmark_designation_date: '2000-08-30'
     },
     {
       landmark_name: 'Farwell Building',
@@ -1029,8 +1017,7 @@ var markers = [
       architect: 'Philip B. Maher',
       lat: 41.8943149417,
       lng: -87.6246207821,
-      landmark_designation_date: '2004-03-10',
-      location: '{'latitude': '41.8943149417', 'longitude': '-87.6246207821'}'
+      landmark_designation_date: '2004-03-10'
     },
     {
       landmark_name: 'Krause Music Store',
@@ -1042,8 +1029,7 @@ var markers = [
       architect: 'William Presto ans Louis H. Sullivan',
       lat: 41.965336129,
       lng: -87.6860108177,
-      landmark_designation_date: '1977-09-28',
-      location: '{'latitude': '41.965336129', 'longitude': '-87.6860108177'}'
+      landmark_designation_date: '1977-09-28'
     },
     {
       landmark_name: 'Biograph Theater',
@@ -1055,8 +1041,7 @@ var markers = [
       architect: 'Samuel N. Corwen',
       lat: 41.9265207104,
       lng: -87.64975918,
-      landmark_designation_date: '2001-03-28',
-      location: '{'latitude': '41.9265207104', 'longitude': '-87.64975918'}'
+      landmark_designation_date: '2001-03-28'
     },
     {
       landmark_name: 'Illinois-Indiana State Line Boundary Marker',
@@ -1068,8 +1053,7 @@ var markers = [
       architect: 'Office of the United States Surveyor-General',
       lat: 41.7088646706,
       lng: -87.5262226891,
-      landmark_designation_date: '2002-09-04',
-      location: '{'latitude': '41.7088646706', 'longitude': '-87.5262226891'}'
+      landmark_designation_date: '2002-09-04'
     },
     {
       landmark_name: 'Charles Hitchcock House',
@@ -1081,8 +1065,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.8913213962,
       lng: -87.7680837965,
-      landmark_designation_date: '1992-07-07',
-      location: '{'latitude': '41.8913213962', 'longitude': '-87.7680837965'}'
+      landmark_designation_date: '1992-07-07'
     },
     {
       landmark_name: 'K.A.M. Isaiah Israel Temple',
@@ -1094,8 +1077,7 @@ var markers = [
       architect: 'Alfred S. Alschuler',
       lat: 41.8028258295,
       lng: -87.5986163947,
-      landmark_designation_date: '1977-06-09',
-      location: '{'latitude': '41.8028258295', 'longitude': '-87.5986163947'}'
+      landmark_designation_date: '1977-06-09'
     },
     {
       landmark_name: 'John Rath House',
@@ -1107,8 +1089,7 @@ var markers = [
       architect: 'George W. Maher',
       lat: 41.9278983322,
       lng: -87.6953097347,
-      landmark_designation_date: '1993-12-01',
-      location: '{'latitude': '41.9278983322', 'longitude': '-87.6953097347'}'
+      landmark_designation_date: '1993-12-01'
     },
     {
       landmark_name: 'Bush Temple of Music',
@@ -1120,8 +1101,7 @@ var markers = [
       architect: 'J.E.O. Pridmore',
       lat: 41.8969029318,
       lng: -87.6316684701,
-      landmark_designation_date: '2001-06-27',
-      location: '{'latitude': '41.8969029318', 'longitude': '-87.6316684701'}'
+      landmark_designation_date: '2001-06-27'
     },
     {
       landmark_name: 'Humboldt Park Boathouse Pavilion',
@@ -1133,8 +1113,7 @@ var markers = [
       architect: 'Richard E. Schmidt,Garden & Martin w/ Jens Jenson',
       lat: 41.9056214802,
       lng: -87.7008044418,
-      landmark_designation_date: '1996-11-13',
-      location: '{'latitude': '41.9056214802', 'longitude': '-87.7008044418'}'
+      landmark_designation_date: '1996-11-13'
     },
     {
       landmark_name: 'Brewster Apartments',
@@ -1146,8 +1125,7 @@ var markers = [
       architect: 'Enoch Hill Turnock',
       lat: 41.9331639618,
       lng: -87.6415829766,
-      landmark_designation_date: '1982-10-06',
-      location: '{'latitude': '41.9331639618', 'longitude': '-87.6415829766'}'
+      landmark_designation_date: '1982-10-06'
     },
     {
       landmark_name: 'James Ward Public School',
@@ -1159,8 +1137,7 @@ var markers = [
       architect: 'Johnson & Edelmann Add:1897;N. S. Patton',
       lat: 41.8431960865,
       lng: -87.6350923115,
-      landmark_designation_date: '2005-09-14',
-      location: '{'latitude': '41.8431960865', 'longitude': '-87.6350923115'}'
+      landmark_designation_date: '2005-09-14'
     },
     {
       landmark_name: 'American System-Built Houses',
@@ -1172,8 +1149,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.7041967461,
       lng: -87.6746479892,
-      landmark_designation_date: '1994-07-13',
-      location: '{'latitude': '41.7041967461', 'longitude': '-87.6746479892'}'
+      landmark_designation_date: '1994-07-13'
     },
     {
       landmark_name: 'Goldblatt Bros. Department Store',
@@ -1185,8 +1161,7 @@ var markers = [
       architect: 'Alfred S. Alshuler',
       lat: 41.8957717929,
       lng: -87.6682731246,
-      landmark_designation_date: '1998-04-01',
-      location: '{'latitude': '41.8957717929', 'longitude': '-87.6682731246'}'
+      landmark_designation_date: '1998-04-01'
     },
     {
       landmark_name: 'Stephen Foster House and Stable',
@@ -1198,11 +1173,10 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.6728032228,
       lng: -87.6305737503,
-      landmark_designation_date: '1996-05-09',
-      location: '{'latitude': '41.6728032228', 'longitude': '-87.6305737503'}'
+      landmark_designation_date: '1996-05-09'
     },
     {
-      landmark_name: 'Woman's Athletic Club',
+      landmark_name: 'Womans Athletic Club',
       id: 'L-213',
       landmark_address: '626 N Michigan av',
       designation_year: 1991,
@@ -1211,8 +1185,7 @@ var markers = [
       architect: 'Philip B. Maher',
       lat: 41.8935811629,
       lng: -87.6246010223,
-      landmark_designation_date: '1991-10-02',
-      location: '{'latitude': '41.8935811629', 'longitude': '-87.6246010223'}'
+      landmark_designation_date: '1991-10-02'
     },
     {
       landmark_name: 'Chicago Board of Trade Building',
@@ -1224,8 +1197,7 @@ var markers = [
       architect: 'Holabird & Root',
       lat: 41.8777351318,
       lng: -87.6322711493,
-      landmark_designation_date: '1977-05-04',
-      location: '{'latitude': '41.8777351318', 'longitude': '-87.6322711493'}'
+      landmark_designation_date: '1977-05-04'
     },
     {
       landmark_name: 'Pittsfield Building',
@@ -1237,8 +1209,7 @@ var markers = [
       architect: 'Graham, Anderson, Probst & White',
       lat: 41.8829469518,
       lng: -87.625716287,
-      landmark_designation_date: '2002-11-06',
-      location: '{'latitude': '41.8829469518', 'longitude': '-87.625716287'}'
+      landmark_designation_date: '2002-11-06'
     },
     {
       landmark_name: 'Mundelein College Skyscraper Building',
@@ -1250,8 +1221,7 @@ var markers = [
       architect: 'Joseph W McCarthy',
       lat: 41.998675941,
       lng: -87.6565516229,
-      landmark_designation_date: '2006-12-13',
-      location: '{'latitude': '41.998675941', 'longitude': '-87.6565516229'}'
+      landmark_designation_date: '2006-12-13'
     },
     {
       landmark_name: 'Marie Schock House',
@@ -1263,8 +1233,7 @@ var markers = [
       architect: 'Frederick Schock',
       lat: 41.889758609,
       lng: -87.7697167565,
-      landmark_designation_date: '1999-01-20',
-      location: '{'latitude': '41.889758609', 'longitude': '-87.7697167565'}'
+      landmark_designation_date: '1999-01-20'
     },
     {
       landmark_name: 'Wood-Maxey-Boyd House',
@@ -1276,8 +1245,7 @@ var markers = [
       architect: 'John C. Cochrane',
       lat: 41.8432902979,
       lng: -87.619976759,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.8432902979', 'longitude': '-87.619976759'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Peoples Gas-Irving Park Neighborhood Store',
@@ -1289,8 +1257,7 @@ var markers = [
       architect: 'George Grant Elmslie & Herman V. von Holst',
       lat: 41.9530942943,
       lng: -87.7489038399,
-      landmark_designation_date: '1987-03-18',
-      location: '{'latitude': '41.9530942943', 'longitude': '-87.7489038399'}'
+      landmark_designation_date: '1987-03-18'
     },
     {
       landmark_name: 'Francis J. Dewes House',
@@ -1302,8 +1269,7 @@ var markers = [
       architect: 'Adolph Cudell & Arthur Hercz',
       lat: 41.9303407661,
       lng: -87.6415742279,
-      landmark_designation_date: '1974-06-12',
-      location: '{'latitude': '41.9303407661', 'longitude': '-87.6415742279'}'
+      landmark_designation_date: '1974-06-12'
     },
     {
       landmark_name: 'Dearborn Street Station',
@@ -1315,8 +1281,7 @@ var markers = [
       architect: 'Cyrus L. W. Eidlitz',
       lat: 41.8717405487,
       lng: -87.6291049252,
-      landmark_designation_date: '1982-03-02',
-      location: '{'latitude': '41.8717405487', 'longitude': '-87.6291049252'}'
+      landmark_designation_date: '1982-03-02'
     },
     {
       landmark_name: 'Wrigley Building',
@@ -1328,8 +1293,7 @@ var markers = [
       architect: 'Graham, Anderson, Probst and White',
       lat: 41.8897256315,
       lng: -87.6248529223,
-      landmark_designation_date: '2012-05-09',
-      location: '{'latitude': '41.8897256315', 'longitude': '-87.6248529223'}'
+      landmark_designation_date: '2012-05-09'
     },
     {
       landmark_name: 'St. Gelasius Church Building',
@@ -1341,8 +1305,7 @@ var markers = [
       architect: 'Henry J. Schlacks',
       lat: 41.7783516794,
       lng: -87.5957609348,
-      landmark_designation_date: '2004-01-14',
-      location: '{'latitude': '41.7783516794', 'longitude': '-87.5957609348'}'
+      landmark_designation_date: '2004-01-14'
     },
     {
       landmark_name: 'White Castle # 16',
@@ -1354,8 +1317,7 @@ var markers = [
       architect: 'Lewis E. Russell',
       lat: 41.8526379217,
       lng: -87.6253298227,
-      landmark_designation_date: '2011-10-05',
-      location: '{'latitude': '41.8526379217', 'longitude': '-87.6253298227'}'
+      landmark_designation_date: '2011-10-05'
     },
     {
       landmark_name: 'Old Republic Building',
@@ -1367,8 +1329,7 @@ var markers = [
       architect: 'K. M. Vitzthum and Company',
       lat: 41.887086452,
       lng: -87.6241814106,
-      landmark_designation_date: '2010-12-08',
-      location: '{'latitude': '41.887086452', 'longitude': '-87.6241814106'}'
+      landmark_designation_date: '2010-12-08'
     },
     {
       landmark_name: 'Trustees System Service Building',
@@ -1380,8 +1341,7 @@ var markers = [
       architect: 'Thielbard & Fugard w/ Eugene&Gwen Lux,Edgar Miller',
       lat: 41.8860461885,
       lng: -87.6336339931,
-      landmark_designation_date: '2004-01-14',
-      location: '{'latitude': '41.8860461885', 'longitude': '-87.6336339931'}'
+      landmark_designation_date: '2004-01-14'
     },
     {
       landmark_name: 'Wrigley Field',
@@ -1393,8 +1353,7 @@ var markers = [
       architect: 'Zachary T. & Charles G. Davis',
       lat: 41.9481448318,
       lng: -87.6555425867,
-      landmark_designation_date: '2004-02-11',
-      location: '{'latitude': '41.9481448318', 'longitude': '-87.6555425867'}'
+      landmark_designation_date: '2004-02-11'
     },
     {
       landmark_name: '(Former) Engine Company 35, Truck 28',
@@ -1406,8 +1365,7 @@ var markers = [
       architect: 'Board of Public Works, add: W. C. Zimmerman',
       lat: 41.9112378121,
       lng: -87.6771416078,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.9112378121', 'longitude': '-87.6771416078'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Allerton Hotel',
@@ -1419,8 +1377,7 @@ var markers = [
       architect: 'Murgatroyd & Ogden with Fugard & Knapp',
       lat: 41.8952009758,
       lng: -87.6237137555,
-      landmark_designation_date: '1998-04-29',
-      location: '{'latitude': '41.8952009758', 'longitude': '-87.6237137555'}'
+      landmark_designation_date: '1998-04-29'
     },
     {
       landmark_name: 'Robert W. Roloson Houses',
@@ -1432,8 +1389,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.8360509541,
       lng: -87.617868313,
-      landmark_designation_date: '1979-12-27',
-      location: '{'latitude': '41.8360509541', 'longitude': '-87.617868313'}'
+      landmark_designation_date: '1979-12-27'
     },
     {
       landmark_name: 'Engine Company 65, Truck 52',
@@ -1445,8 +1401,7 @@ var markers = [
       architect: 'Paul Gerhardt, Jr.',
       lat: 41.8037338592,
       lng: -87.7353570425,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.8037338592', 'longitude': '-87.7353570425'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Chicago Building',
@@ -1458,8 +1413,7 @@ var markers = [
       architect: 'Holabird & Roche',
       lat: 41.881849562,
       lng: -87.6281729688,
-      landmark_designation_date: '1996-03-26',
-      location: '{'latitude': '41.881849562', 'longitude': '-87.6281729688'}'
+      landmark_designation_date: '1996-03-26'
     },
     {
       landmark_name: 'American System-Built Houses',
@@ -1471,8 +1425,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.7015922036,
       lng: -87.6738263553,
-      landmark_designation_date: '1994-07-13',
-      location: '{'latitude': '41.7015922036', 'longitude': '-87.6738263553'}'
+      landmark_designation_date: '1994-07-13'
     },
     {
       landmark_name: 'Blackstone Library',
@@ -1484,8 +1437,7 @@ var markers = [
       architect: 'Solon Spencer Beman',
       lat: 41.805828791,
       lng: -87.5903059538,
-      landmark_designation_date: '2011-01-13',
-      location: '{'latitude': '41.805828791', 'longitude': '-87.5903059538'}'
+      landmark_designation_date: '2011-01-13'
     },
     {
       landmark_name: 'Metropolitan Missionary Baptist Church',
@@ -1497,8 +1449,7 @@ var markers = [
       architect: 'Hugh M.G. Garden',
       lat: 41.8828003421,
       lng: -87.6812423555,
-      landmark_designation_date: '1989-02-16',
-      location: '{'latitude': '41.8828003421', 'longitude': '-87.6812423555'}'
+      landmark_designation_date: '1989-02-16'
     },
     {
       landmark_name: 'Noble-Seymour-Crippen House',
@@ -1510,8 +1461,7 @@ var markers = [
       architect: 'addit 1863, Architects Unknown',
       lat: 41.9836151349,
       lng: -87.7958473092,
-      landmark_designation_date: '1988-05-11',
-      location: '{'latitude': '41.9836151349', 'longitude': '-87.7958473092'}'
+      landmark_designation_date: '1988-05-11'
     },
     {
       landmark_name: 'Roberts Temple Church of God in Christ Building',
@@ -1523,11 +1473,10 @@ var markers = [
       architect: 'Edward G. McClellan add:1927,unknown,remod:1992-93',
       lat: 41.8212099271,
       lng: -87.6259113331,
-      landmark_designation_date: '2006-03-29',
-      location: '{'latitude': '41.8212099271', 'longitude': '-87.6259113331'}'
+      landmark_designation_date: '2006-03-29'
     },
     {
-      landmark_name: 'Soldiers' Home',
+      landmark_name: 'Soldiers Home',
       id: 'L- 26',
       landmark_address: '739 E 35th St',
       designation_year: 1996,
@@ -1536,8 +1485,7 @@ var markers = [
       architect: 'William W. Boyington (1866 sect)',
       lat: 41.8307510749,
       lng: -87.6074738685,
-      landmark_designation_date: '1996-04-16',
-      location: '{'latitude': '41.8307510749', 'longitude': '-87.6074738685'}'
+      landmark_designation_date: '1996-04-16'
     },
     {
       landmark_name: 'Michigan Avenue Bridge and Wacker Dr Esplanade',
@@ -1549,8 +1497,7 @@ var markers = [
       architect: 'Bridge & Bridge Hses:1920:E. Bennett',
       lat: 41.8885621636,
       lng: -87.6248160434,
-      landmark_designation_date: '1991-10-02',
-      location: '{'latitude': '41.8885621636', 'longitude': '-87.6248160434'}'
+      landmark_designation_date: '1991-10-02'
     },
     {
       landmark_name: 'Madonna Della Strada Chapel',
@@ -1562,8 +1509,7 @@ var markers = [
       architect: 'Andrew N. Rebori',
       lat: 41.9995586369,
       lng: -87.6562471998,
-      landmark_designation_date: '2004-09-02',
-      location: '{'latitude': '41.9995586369', 'longitude': '-87.6562471998'}'
+      landmark_designation_date: '2004-09-02'
     },
     {
       landmark_name: 'Griffiths-Burroughs House',
@@ -1575,8 +1521,7 @@ var markers = [
       architect: 'Solon S. Beman',
       lat: 41.8252664679,
       lng: -87.6236652359,
-      landmark_designation_date: '2010-02-10',
-      location: '{'latitude': '41.8252664679', 'longitude': '-87.6236652359'}'
+      landmark_designation_date: '2010-02-10'
     },
     {
       landmark_name: 'Assumption School',
@@ -1588,8 +1533,7 @@ var markers = [
       architect: 'Frederick R. Foltz',
       lat: 41.8937173011,
       lng: -87.6365184841,
-      landmark_designation_date: '2003-07-09',
-      location: '{'latitude': '41.8937173011', 'longitude': '-87.6365184841'}'
+      landmark_designation_date: '2003-07-09'
     },
     {
       landmark_name: 'Main Building at Illinois Institute of Technology',
@@ -1601,8 +1545,7 @@ var markers = [
       architect: 'Patton & Fisher',
       lat: 41.8336805026,
       lng: -87.6292230641,
-      landmark_designation_date: '2004-05-26',
-      location: '{'latitude': '41.8336805026', 'longitude': '-87.6292230641'}'
+      landmark_designation_date: '2004-05-26'
     },
     {
       landmark_name: 'Whistle Stop Inn',
@@ -1614,8 +1557,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.953817572,
       lng: -87.7326762984,
-      landmark_designation_date: '1990-12-05',
-      location: '{'latitude': '41.953817572', 'longitude': '-87.7326762984'}'
+      landmark_designation_date: '1990-12-05'
     },
     {
       landmark_name: 'Shedd Park Fieldhouse',
@@ -1627,8 +1569,7 @@ var markers = [
       architect: 'William Drummond',
       lat: 41.85016619,
       lng: -87.7170606822,
-      landmark_designation_date: '2004-02-11',
-      location: '{'latitude': '41.85016619', 'longitude': '-87.7170606822'}'
+      landmark_designation_date: '2004-02-11'
     },
     {
       landmark_name: 'Brooks Building',
@@ -1640,8 +1581,7 @@ var markers = [
       architect: 'Holabird & Roche',
       lat: 41.8778764445,
       lng: -87.634778221,
-      landmark_designation_date: '1997-01-14',
-      location: '{'latitude': '41.8778764445', 'longitude': '-87.634778221'}'
+      landmark_designation_date: '1997-01-14'
     },
     {
       landmark_name: 'Immaculata High School & Convent Buildings',
@@ -1653,8 +1593,7 @@ var markers = [
       architect: 'Barry Byrne',
       lat: 41.9551213381,
       lng: -87.646291602,
-      landmark_designation_date: '1983-07-27',
-      location: '{'latitude': '41.9551213381', 'longitude': '-87.646291602'}'
+      landmark_designation_date: '1983-07-27'
     },
     {
       landmark_name: 'Chicago Theater',
@@ -1666,8 +1605,7 @@ var markers = [
       architect: 'Rapp and Rapp',
       lat: 41.8853885067,
       lng: -87.6272232232,
-      landmark_designation_date: '1983-01-28',
-      location: '{'latitude': '41.8853885067', 'longitude': '-87.6272232232'}'
+      landmark_designation_date: '1983-01-28'
     },
     {
       landmark_name: 'Auditorium Building',
@@ -1679,8 +1617,7 @@ var markers = [
       architect: 'Adler & Sullivan',
       lat: 41.8760394215,
       lng: -87.6251600082,
-      landmark_designation_date: '1976-09-15',
-      location: '{'latitude': '41.8760394215', 'longitude': '-87.6251600082'}'
+      landmark_designation_date: '1976-09-15'
     },
     {
       landmark_name: '227 East Walton Place Apartment Building',
@@ -1692,8 +1629,7 @@ var markers = [
       architect: 'Harry Weese',
       lat: 41.8998142935,
       lng: -87.6207782308,
-      landmark_designation_date: '2012-05-09',
-      location: '{'latitude': '41.8998142935', 'longitude': '-87.6207782308'}'
+      landmark_designation_date: '2012-05-09'
     },
     {
       landmark_name: 'New Regal Theater',
@@ -1705,8 +1641,7 @@ var markers = [
       architect: 'John Eberson',
       lat: 41.7512473796,
       lng: -87.5835096955,
-      landmark_designation_date: '1992-06-17',
-      location: '{'latitude': '41.7512473796', 'longitude': '-87.5835096955'}'
+      landmark_designation_date: '1992-06-17'
     },
     {
       landmark_name: 'Engine Company 78',
@@ -1718,8 +1653,7 @@ var markers = [
       architect: 'Charles W. Kallal',
       lat: 41.9493008207,
       lng: -87.6565680861,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.9493008207', 'longitude': '-87.6565680861'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'King-Nash House',
@@ -1731,8 +1665,7 @@ var markers = [
       architect: 'George W. Maher',
       lat: 41.883054938,
       lng: -87.7075949912,
-      landmark_designation_date: '1988-02-10',
-      location: '{'latitude': '41.883054938', 'longitude': '-87.7075949912'}'
+      landmark_designation_date: '1988-02-10'
     },
     {
       landmark_name: 'Stephen Race House',
@@ -1744,8 +1677,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.9531018569,
       lng: -87.7336707451,
-      landmark_designation_date: '1988-09-22',
-      location: '{'latitude': '41.9531018569', 'longitude': '-87.7336707451'}'
+      landmark_designation_date: '1988-09-22'
     },
     {
       landmark_name: 'Pate-Comiskey House',
@@ -1757,8 +1689,7 @@ var markers = [
       architect: 'George Maher',
       lat: 41.8010165532,
       lng: -87.6221496925,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.8010165532', 'longitude': '-87.6221496925'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Heald Square Monument',
@@ -1770,8 +1701,7 @@ var markers = [
       architect: 'Lorado Taft & Leonrd Crunelle, Sculptors',
       lat: 41.8870052799,
       lng: -87.6269280677,
-      landmark_designation_date: '1971-09-15',
-      location: '{'latitude': '41.8870052799', 'longitude': '-87.6269280677'}'
+      landmark_designation_date: '1971-09-15'
     },
     {
       landmark_name: 'Kaufmann Store and Flats',
@@ -1783,8 +1713,7 @@ var markers = [
       architect: 'Adler & Sullivan',
       lat: 41.9238674291,
       lng: -87.6470710728,
-      landmark_designation_date: '1996-04-16',
-      location: '{'latitude': '41.9238674291', 'longitude': '-87.6470710728'}'
+      landmark_designation_date: '1996-04-16'
     },
     {
       landmark_name: 'Yale Apartments',
@@ -1796,8 +1725,7 @@ var markers = [
       architect: 'John T. Long',
       lat: 41.7747041062,
       lng: -87.631296223,
-      landmark_designation_date: '2003-04-09',
-      location: '{'latitude': '41.7747041062', 'longitude': '-87.631296223'}'
+      landmark_designation_date: '2003-04-09'
     },
     {
       landmark_name: 'Carl Schurz High School',
@@ -1809,8 +1737,7 @@ var markers = [
       architect: 'Dwight H. Perkins',
       lat: 41.9472702951,
       lng: -87.7356393075,
-      landmark_designation_date: '1979-12-07',
-      location: '{'latitude': '41.9472702951', 'longitude': '-87.7356393075'}'
+      landmark_designation_date: '1979-12-07'
     },
     {
       landmark_name: 'Gage Group',
@@ -1822,11 +1749,10 @@ var markers = [
       architect: 'Louis H. Sullivan (18),Holabird & Roche (25 & 30)',
       lat: 41.8813237899,
       lng: -87.6249801492,
-      landmark_designation_date: '1996-09-11',
-      location: '{'latitude': '41.8813237899', 'longitude': '-87.6249801492'}'
+      landmark_designation_date: '1996-09-11'
     },
     {
-      landmark_name: 'Jewish People's Institute',
+      landmark_name: 'Jewish Peoples Institute',
       id: 'L- 23',
       landmark_address: '3500 W Douglas Blvd',
       designation_year: 2000,
@@ -1835,8 +1761,7 @@ var markers = [
       architect: 'Klaber & Grunfeld',
       lat: 41.863255626,
       lng: -87.7133729164,
-      landmark_designation_date: '2000-06-28',
-      location: '{'latitude': '41.863255626', 'longitude': '-87.7133729164'}'
+      landmark_designation_date: '2000-06-28'
     },
     {
       landmark_name: 'McGraw-Hill Building',
@@ -1848,8 +1773,7 @@ var markers = [
       architect: 'Thielbar & Fugard',
       lat: 41.891410922,
       lng: -87.6248926856,
-      landmark_designation_date: '1997-02-07',
-      location: '{'latitude': '41.891410922', 'longitude': '-87.6248926856'}'
+      landmark_designation_date: '1997-02-07'
     },
     {
       landmark_name: 'Samuel M. Nickerson House',
@@ -1861,8 +1785,7 @@ var markers = [
       architect: 'Burling & Whitehouse',
       lat: 41.8943505796,
       lng: -87.6265337873,
-      landmark_designation_date: '1977-09-28',
-      location: '{'latitude': '41.8943505796', 'longitude': '-87.6265337873'}'
+      landmark_designation_date: '1977-09-28'
     },
     {
       landmark_name: 'Third Unitarian Church Building',
@@ -1874,8 +1797,7 @@ var markers = [
       architect: 'Paul Schweikher, addit in 1956:William Fyfe',
       lat: 41.8858772448,
       lng: -87.7715177336,
-      landmark_designation_date: '2008-02-06',
-      location: '{'latitude': '41.8858772448', 'longitude': '-87.7715177336'}'
+      landmark_designation_date: '2008-02-06'
     },
     {
       landmark_name: 'Garfield Boulevard \'L\' Station and Overpass',
@@ -1887,8 +1809,7 @@ var markers = [
       architect: 'Myron Church',
       lat: 41.7937353344,
       lng: -87.6183036472,
-      landmark_designation_date: '2001-12-12',
-      location: '{'latitude': '41.7937353344', 'longitude': '-87.6183036472'}'
+      landmark_designation_date: '2001-12-12'
     },
     {
       landmark_name: '(Former) Schlitz BreweryTied-House@958W.69th St.',
@@ -1900,8 +1821,7 @@ var markers = [
       architect: 'Unknown',
       lat: 41.769006287,
       lng: -87.6492013632,
-      landmark_designation_date: '2011-07-06',
-      location: '{'latitude': '41.769006287', 'longitude': '-87.6492013632'}'
+      landmark_designation_date: '2011-07-06'
     },
     {
       landmark_name: 'Leiter II Building',
@@ -1913,8 +1833,7 @@ var markers = [
       architect: 'William LeBaron Jenney',
       lat: 41.8763370403,
       lng: -87.6271867248,
-      landmark_designation_date: '1997-01-14',
-      location: '{'latitude': '41.8763370403', 'longitude': '-87.6271867248'}'
+      landmark_designation_date: '1997-01-14'
     },
     {
       landmark_name: 'Chapin and Gore Building',
@@ -1926,8 +1845,7 @@ var markers = [
       architect: 'Richard E. Schmidt and Hugh M.G. Garden',
       lat: 41.8793273197,
       lng: -87.6256147818,
-      landmark_designation_date: '1982-01-21',
-      location: '{'latitude': '41.8793273197', 'longitude': '-87.6256147818'}'
+      landmark_designation_date: '1982-01-21'
     },
     {
       landmark_name: 'Carson Pirie Scott & Company Building',
@@ -1939,8 +1857,7 @@ var markers = [
       architect: 'Louis H. Sullivan, 1905-6:D.H. Burnham&Co.',
       lat: 41.8814058757,
       lng: -87.6269801114,
-      landmark_designation_date: '1970-11-05',
-      location: '{'latitude': '41.8814058757', 'longitude': '-87.6269801114'}'
+      landmark_designation_date: '1970-11-05'
     },
     {
       landmark_name: 'Albert F. Madlener House',
@@ -1952,8 +1869,7 @@ var markers = [
       architect: 'Richard E. Schmidt & Hugh M.G. Garden',
       lat: 41.9096485971,
       lng: -87.6292217949,
-      landmark_designation_date: '1973-03-22',
-      location: '{'latitude': '41.9096485971', 'longitude': '-87.6292217949'}'
+      landmark_designation_date: '1973-03-22'
     },
     {
       landmark_name: 'Chicago & Western Indiana  Railroad Bridge',
@@ -1965,8 +1881,7 @@ var markers = [
       architect: 'James Peterson',
       lat: 41.6693406136,
       lng: -87.558964347,
-      landmark_designation_date: '2007-12-12',
-      location: '{'latitude': '41.6693406136', 'longitude': '-87.558964347'}'
+      landmark_designation_date: '2007-12-12'
     },
     {
       landmark_name: 'Belle Shore Apartment Hotel',
@@ -1978,8 +1893,7 @@ var markers = [
       architect: 'Nathaniel Koenigsberg & Leon Weisfeld',
       lat: 41.9838506859,
       lng: -87.6576244692,
-      landmark_designation_date: '2002-11-06',
-      location: '{'latitude': '41.9838506859', 'longitude': '-87.6576244692'}'
+      landmark_designation_date: '2002-11-06'
     },
     {
       landmark_name: 'Site of the Origin of the Chicago Fire of 1871',
@@ -1991,8 +1905,7 @@ var markers = [
       architect: 'comm sculpture,\'Pillar of Fire\' Egon Weiner 1961',
       lat: 41.8692720628,
       lng: -87.6419907162,
-      landmark_designation_date: '1971-09-15',
-      location: '{'latitude': '41.8692720628', 'longitude': '-87.6419907162'}'
+      landmark_designation_date: '1971-09-15'
     },
     {
       landmark_name: 'Emil Bach House',
@@ -2004,8 +1917,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 42.0165829133,
       lng: -87.6647753031,
-      landmark_designation_date: '1977-09-28',
-      location: '{'latitude': '42.0165829133', 'longitude': '-87.6647753031'}'
+      landmark_designation_date: '1977-09-28'
     },
     {
       landmark_name: 'Field Building',
@@ -2017,8 +1929,7 @@ var markers = [
       architect: 'Graham, Anderson, Probst & White',
       lat: 41.8797642534,
       lng: -87.6315477722,
-      landmark_designation_date: '1994-02-09',
-      location: '{'latitude': '41.8797642534', 'longitude': '-87.6315477722'}'
+      landmark_designation_date: '1994-02-09'
     },
     {
       landmark_name: 'Rookery Building',
@@ -2030,8 +1941,7 @@ var markers = [
       architect: 'Burnham & Root',
       lat: 41.8790761299,
       lng: -87.6317974337,
-      landmark_designation_date: '1972-07-05',
-      location: '{'latitude': '41.8790761299', 'longitude': '-87.6317974337'}'
+      landmark_designation_date: '1972-07-05'
     },
     {
       landmark_name: 'Pulaski Park Fieldhouse',
@@ -2043,8 +1953,7 @@ var markers = [
       architect: 'William Carbys Zimmerman',
       lat: 41.9064853706,
       lng: -87.6632836491,
-      landmark_designation_date: '2003-07-29',
-      location: '{'latitude': '41.9064853706', 'longitude': '-87.6632836491'}'
+      landmark_designation_date: '2003-07-29'
     },
     {
       landmark_name: 'Engine Company 45, Truck 15',
@@ -2056,8 +1965,7 @@ var markers = [
       architect: 'Argyle E. Robinson',
       lat: 41.8111849939,
       lng: -87.6070024003,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.8111849939', 'longitude': '-87.6070024003'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'London Guarantee Building',
@@ -2069,8 +1977,7 @@ var markers = [
       architect: 'Alfred S. Alschuler',
       lat: 41.8879557052,
       lng: -87.6250578561,
-      landmark_designation_date: '1996-04-16',
-      location: '{'latitude': '41.8879557052', 'longitude': '-87.6250578561'}'
+      landmark_designation_date: '1996-04-16'
     },
     {
       landmark_name: 'McGill House',
@@ -2082,8 +1989,7 @@ var markers = [
       architect: 'Henry Ives Cobb',
       lat: 41.8048612592,
       lng: -87.6047911873,
-      landmark_designation_date: '2006-04-26',
-      location: '{'latitude': '41.8048612592', 'longitude': '-87.6047911873'}'
+      landmark_designation_date: '2006-04-26'
     },
     {
       landmark_name: 'Ludington Building',
@@ -2095,8 +2001,7 @@ var markers = [
       architect: 'William LeBaron Jenney',
       lat: 41.8690058489,
       lng: -87.626354968,
-      landmark_designation_date: '1996-06-10',
-      location: '{'latitude': '41.8690058489', 'longitude': '-87.626354968'}'
+      landmark_designation_date: '1996-06-10'
     },
     {
       landmark_name: '(Former) Schlitz BreweryTied-House@3456SWestern',
@@ -2108,8 +2013,7 @@ var markers = [
       architect: 'Kley & Lang',
       lat: 41.8304224833,
       lng: -87.6854449419,
-      landmark_designation_date: '2011-07-06',
-      location: '{'latitude': '41.8304224833', 'longitude': '-87.6854449419'}'
+      landmark_designation_date: '2011-07-06'
     },
     {
       landmark_name: 'Second Presbyterian Church',
@@ -2121,8 +2025,7 @@ var markers = [
       architect: 'James Renwick Recon:1900;Howard Van Doren Shaw',
       lat: 41.8557248795,
       lng: -87.6243593054,
-      landmark_designation_date: '1977-09-28',
-      location: '{'latitude': '41.8557248795', 'longitude': '-87.6243593054'}'
+      landmark_designation_date: '1977-09-28'
     },
     {
       landmark_name: '(Former) Schlitz Brewery-Tied House',
@@ -2134,11 +2037,10 @@ var markers = [
       architect: 'Charles Thisslew',
       lat: 41.9752251056,
       lng: -87.6602583662,
-      landmark_designation_date: '2011-05-04',
-      location: '{'latitude': '41.9752251056', 'longitude': '-87.6602583662'}'
+      landmark_designation_date: '2011-05-04'
     },
     {
-      landmark_name: 'Lorado Taft's Midway Studios',
+      landmark_name: 'Lorado Taft\'s Midway Studios',
       id: 'L-192',
       landmark_address: '6016 S Ingleside Dr',
       designation_year: 1993,
@@ -2147,8 +2049,7 @@ var markers = [
       architect: 'Arch ?, recon:1929;O F Johnson Add:1964;E D Dart',
       lat: 41.7855264091,
       lng: -87.6032052025,
-      landmark_designation_date: '1993-12-01',
-      location: '{'latitude': '41.7855264091', 'longitude': '-87.6032052025'}'
+      landmark_designation_date: '1993-12-01'
     },
     {
       landmark_name: '(Former) Sheridan Trust and Savings Bank Building',
@@ -2160,8 +2061,7 @@ var markers = [
       architect: 'Marshall & Fox, Huszagh & Hill',
       lat: 41.9686225445,
       lng: -87.65913012,
-      landmark_designation_date: '2008-10-08',
-      location: '{'latitude': '41.9686225445', 'longitude': '-87.65913012'}'
+      landmark_designation_date: '2008-10-08'
     },
     {
       landmark_name: 'Uptown Theater',
@@ -2173,8 +2073,7 @@ var markers = [
       architect: 'Rapp & Rapp',
       lat: 41.969525712,
       lng: -87.6601956677,
-      landmark_designation_date: '1991-10-02',
-      location: '{'latitude': '41.969525712', 'longitude': '-87.6601956677'}'
+      landmark_designation_date: '1991-10-02'
     },
     {
       landmark_name: 'Eighth Church of Christ, Scientist',
@@ -2186,8 +2085,7 @@ var markers = [
       architect: 'Leon E. Stanhope',
       lat: 41.8149877687,
       lng: -87.6225078834,
-      landmark_designation_date: '1993-06-09',
-      location: '{'latitude': '41.8149877687', 'longitude': '-87.6225078834'}'
+      landmark_designation_date: '1993-06-09'
     },
     {
       landmark_name: 'Chicago Harbor Lighthouse',
@@ -2199,8 +2097,7 @@ var markers = [
       architect: 'Unknown',
       lat: 41.8892733652,
       lng: -87.5904094691,
-      landmark_designation_date: '2003-04-09',
-      location: '{'latitude': '41.8892733652', 'longitude': '-87.5904094691'}'
+      landmark_designation_date: '2003-04-09'
     },
     {
       landmark_name: 'Chess Records Office and Studio',
@@ -2212,8 +2109,7 @@ var markers = [
       architect: 'Horatio Wilson',
       lat: 41.8536064409,
       lng: -87.6242198953,
-      landmark_designation_date: '1990-05-16',
-      location: '{'latitude': '41.8536064409', 'longitude': '-87.6242198953'}'
+      landmark_designation_date: '1990-05-16'
     },
     {
       landmark_name: 'Isidore H. Heller House',
@@ -2225,8 +2121,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.8014083215,
       lng: -87.5971117009,
-      landmark_designation_date: '1971-09-15',
-      location: '{'latitude': '41.8014083215', 'longitude': '-87.5971117009'}'
+      landmark_designation_date: '1971-09-15'
     },
     {
       landmark_name: 'St Ignatius College Prep Building',
@@ -2238,8 +2133,7 @@ var markers = [
       architect: 'Toussaint Menard west add:1874;John P. Huber',
       lat: 41.867418562,
       lng: -87.6541220413,
-      landmark_designation_date: '1987-03-18',
-      location: '{'latitude': '41.867418562', 'longitude': '-87.6541220413'}'
+      landmark_designation_date: '1987-03-18'
     },
     {
       landmark_name: 'Gauler Twin House',
@@ -2251,8 +2145,7 @@ var markers = [
       architect: 'Walter Burley Griffin',
       lat: 41.9897069735,
       lng: -87.6611934358,
-      landmark_designation_date: '2000-06-28',
-      location: '{'latitude': '41.9897069735', 'longitude': '-87.6611934358'}'
+      landmark_designation_date: '2000-06-28'
     },
     {
       landmark_name: 'Museum of Science and Industry',
@@ -2264,8 +2157,7 @@ var markers = [
       architect: 'Charles B. Atwood',
       lat: 41.7905472338,
       lng: -87.5828746617,
-      landmark_designation_date: '1995-11-01',
-      location: '{'latitude': '41.7905472338', 'longitude': '-87.5828746617'}'
+      landmark_designation_date: '1995-11-01'
     },
     {
       landmark_name: 'Stephen A. Douglas Memorial',
@@ -2277,8 +2169,7 @@ var markers = [
       architect: 'Leonard W. Volk',
       lat: 41.8316280537,
       lng: -87.6084033152,
-      landmark_designation_date: '1977-09-28',
-      location: '{'latitude': '41.8316280537', 'longitude': '-87.6084033152'}'
+      landmark_designation_date: '1977-09-28'
     },
     {
       landmark_name: 'Site of the 1st Self-Sustain Cont. Nuclear Chain',
@@ -2290,8 +2181,7 @@ var markers = [
       architect: 'Commern. sculpture,\'Nuclear Energy\' Henry Moore',
       lat: 41.7921621211,
       lng: -87.6008698951,
-      landmark_designation_date: '1971-10-27',
-      location: '{'latitude': '41.7921621211', 'longitude': '-87.6008698951'}'
+      landmark_designation_date: '1971-10-27'
     },
     {
       landmark_name: 'Fisher Building',
@@ -2303,8 +2193,7 @@ var markers = [
       architect: 'D.H. Burnham & Co. 1907:side add. Peter Weber',
       lat: 41.8771986354,
       lng: -87.6289913776,
-      landmark_designation_date: '1978-06-07',
-      location: '{'latitude': '41.8771986354', 'longitude': '-87.6289913776'}'
+      landmark_designation_date: '1978-06-07'
     },
     {
       landmark_name: 'Robert Lindblom Technical High Schoool building',
@@ -2316,8 +2205,7 @@ var markers = [
       architect: 'Arthur F. Hussander',
       lat: 41.7820970584,
       lng: -87.6721645801,
-      landmark_designation_date: '2010-06-09',
-      location: '{'latitude': '41.7820970584', 'longitude': '-87.6721645801'}'
+      landmark_designation_date: '2010-06-09'
     },
     {
       landmark_name: 'Reliance Building',
@@ -2329,8 +2217,7 @@ var markers = [
       architect: 'base:Burham & Root Upper Stor: D.H. Burnham and Co',
       lat: 41.8830285557,
       lng: -87.6282415079,
-      landmark_designation_date: '1975-07-11',
-      location: '{'latitude': '41.8830285557', 'longitude': '-87.6282415079'}'
+      landmark_designation_date: '1975-07-11'
     },
     {
       landmark_name: 'Charles D. Iglehart House',
@@ -2342,8 +2229,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.6911832728,
       lng: -87.6827684859,
-      landmark_designation_date: '1994-07-13',
-      location: '{'latitude': '41.6911832728', 'longitude': '-87.6827684859'}'
+      landmark_designation_date: '1994-07-13'
     },
     {
       landmark_name: 'Engine Company 61',
@@ -2355,8 +2241,7 @@ var markers = [
       architect: 'Charles W. Kallal',
       lat: 41.7966978108,
       lng: -87.6236607767,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.7966978108', 'longitude': '-87.6236607767'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Pilgrim Baptist Church',
@@ -2368,8 +2253,7 @@ var markers = [
       architect: 'Adler & Sullivan',
       lat: 41.8344644349,
       lng: -87.621482506,
-      landmark_designation_date: '1981-12-18',
-      location: '{'latitude': '41.8344644349', 'longitude': '-87.621482506'}'
+      landmark_designation_date: '1981-12-18'
     },
     {
       landmark_name: 'Kenwood United Church of Christ',
@@ -2381,8 +2265,7 @@ var markers = [
       architect: 'William W. Boyington, Henry B. Wheelock,Chatten',
       lat: 41.8111672548,
       lng: -87.599781067,
-      landmark_designation_date: '2011-10-05',
-      location: '{'latitude': '41.8111672548', 'longitude': '-87.599781067'}'
+      landmark_designation_date: '2011-10-05'
     },
     {
       landmark_name: 'West Town State Bank Building',
@@ -2394,8 +2277,7 @@ var markers = [
       architect: 'Mundie & Jensen',
       lat: 41.8814310723,
       lng: -87.6867353759,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.8814310723', 'longitude': '-87.6867353759'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Navy Pier (Headhouse and East End Building)',
@@ -2407,8 +2289,7 @@ var markers = [
       architect: 'Charles Summer Frost',
       lat: 41.8917352558,
       lng: -87.6046964212,
-      landmark_designation_date: '1977-11-14',
-      location: '{'latitude': '41.8917352558', 'longitude': '-87.6046964212'}'
+      landmark_designation_date: '1977-11-14'
     },
     {
       landmark_name: 'Carl Sandburg House',
@@ -2420,8 +2301,7 @@ var markers = [
       architect: 'Unknown',
       lat: 41.9665720815,
       lng: -87.6729894567,
-      landmark_designation_date: '2006-10-04',
-      location: '{'latitude': '41.9665720815', 'longitude': '-87.6729894567'}'
+      landmark_designation_date: '2006-10-04'
     },
     {
       landmark_name: '63rd Street Bathing Pavilion',
@@ -2433,8 +2313,7 @@ var markers = [
       architect: 'South Park Commission Architects',
       lat: 41.7814414364,
       lng: -87.5737125481,
-      landmark_designation_date: '2004-12-08',
-      location: '{'latitude': '41.7814414364', 'longitude': '-87.5737125481'}'
+      landmark_designation_date: '2004-12-08'
     },
     {
       landmark_name: 'Bryan Lathrop House',
@@ -2446,8 +2325,7 @@ var markers = [
       architect: 'McKim, Meade & White',
       lat: 41.9018797146,
       lng: -87.625063762,
-      landmark_designation_date: '1973-05-09',
-      location: '{'latitude': '41.9018797146', 'longitude': '-87.625063762'}'
+      landmark_designation_date: '1973-05-09'
     },
     {
       landmark_name: 'Fisher Studio Houses',
@@ -2459,8 +2337,7 @@ var markers = [
       architect: 'Andrew Rebori & Edgar Miller',
       lat: 41.9042760697,
       lng: -87.6282941956,
-      landmark_designation_date: '1996-07-31',
-      location: '{'latitude': '41.9042760697', 'longitude': '-87.6282941956'}'
+      landmark_designation_date: '1996-07-31'
     },
     {
       landmark_name: 'Courthouse Place',
@@ -2472,8 +2349,7 @@ var markers = [
       architect: 'Otto H. Matz',
       lat: 41.8902709798,
       lng: -87.6301319449,
-      landmark_designation_date: '1993-06-09',
-      location: '{'latitude': '41.8902709798', 'longitude': '-87.6301319449'}'
+      landmark_designation_date: '1993-06-09'
     },
     {
       landmark_name: 'Drake Fountain',
@@ -2485,8 +2361,7 @@ var markers = [
       architect: 'Richard Henry Park',
       lat: 41.7280940998,
       lng: -87.552758661,
-      landmark_designation_date: '2004-03-10',
-      location: '{'latitude': '41.7280940998', 'longitude': '-87.552758661'}'
+      landmark_designation_date: '2004-03-10'
     },
     {
       landmark_name: 'Marquette Building',
@@ -2498,8 +2373,7 @@ var markers = [
       architect: 'Holabird and Roche',
       lat: 41.8797869732,
       lng: -87.6297401183,
-      landmark_designation_date: '1975-06-09',
-      location: '{'latitude': '41.8797869732', 'longitude': '-87.6297401183'}'
+      landmark_designation_date: '1975-06-09'
     },
     {
       landmark_name: 'Powhatan Apartments',
@@ -2511,8 +2385,7 @@ var markers = [
       architect: 'Robert DeGolyer & Charles Morgan',
       lat: 41.8046084045,
       lng: -87.5844718519,
-      landmark_designation_date: '1993-01-12',
-      location: '{'latitude': '41.8046084045', 'longitude': '-87.5844718519'}'
+      landmark_designation_date: '1993-01-12'
     },
     {
       landmark_name: 'Chicago Motor Club Building',
@@ -2524,8 +2397,7 @@ var markers = [
       architect: 'Holabird & Root',
       lat: 41.8870347853,
       lng: -87.6254250923,
-      landmark_designation_date: '2012-05-09',
-      location: '{'latitude': '41.8870347853', 'longitude': '-87.6254250923'}'
+      landmark_designation_date: '2012-05-09'
     },
     {
       landmark_name: 'Metropolitan Apostolic Community Church Building',
@@ -2537,8 +2409,7 @@ var markers = [
       architect: 'John Turner Long.1913 mn sanc alt Charles S Frost',
       lat: 41.8199982447,
       lng: -87.6175252982,
-      landmark_designation_date: '2007-07-19',
-      location: '{'latitude': '41.8199982447', 'longitude': '-87.6175252982'}'
+      landmark_designation_date: '2007-07-19'
     },
     {
       landmark_name: 'Delaware Building',
@@ -2550,8 +2421,7 @@ var markers = [
       architect: 'Wheelock & Thomas,2 story add + atrium 1889 Huber',
       lat: 41.884686068,
       lng: -87.629193382,
-      landmark_designation_date: '1983-11-23',
-      location: '{'latitude': '41.884686068', 'longitude': '-87.629193382'}'
+      landmark_designation_date: '1983-11-23'
     },
     {
       landmark_name: 'Truevine Missionary Baptist Church Building',
@@ -2563,8 +2433,7 @@ var markers = [
       architect: 'Holabird and Roche',
       lat: 41.7717845083,
       lng: -87.6352563581,
-      landmark_designation_date: '2007-02-07',
-      location: '{'latitude': '41.7717845083', 'longitude': '-87.6352563581'}'
+      landmark_designation_date: '2007-02-07'
     },
     {
       landmark_name: 'First Church of Deliverance',
@@ -2576,8 +2445,7 @@ var markers = [
       architect: 'Walter T. Bailey,1946 Add. Kocher,Buss & DeKlerk',
       lat: 41.8158826088,
       lng: -87.624158884,
-      landmark_designation_date: '1994-10-05',
-      location: '{'latitude': '41.8158826088', 'longitude': '-87.624158884'}'
+      landmark_designation_date: '1994-10-05'
     },
     {
       landmark_name: 'Harris and Selwyn Theaters',
@@ -2589,8 +2457,7 @@ var markers = [
       architect: 'C. Howard Crane & H Kenneth Franzheim',
       lat: 41.8850527944,
       lng: -87.6298759973,
-      landmark_designation_date: '1983-03-31',
-      location: '{'latitude': '41.8850527944', 'longitude': '-87.6298759973'}'
+      landmark_designation_date: '1983-03-31'
     },
     {
       landmark_name: 'Rockefeller Memorial Chapel',
@@ -2602,8 +2469,7 @@ var markers = [
       architect: 'Bertram Grosvenor Goodhue Associates',
       lat: 41.7885259092,
       lng: -87.5970443072,
-      landmark_designation_date: '2004-11-03',
-      location: '{'latitude': '41.7885259092', 'longitude': '-87.5970443072'}'
+      landmark_designation_date: '2004-11-03'
     },
     {
       landmark_name: 'John Jacob Walser House',
@@ -2615,8 +2481,7 @@ var markers = [
       architect: 'Frank Llyod Wright',
       lat: 41.8815281961,
       lng: -87.765373899,
-      landmark_designation_date: '1984-03-30',
-      location: '{'latitude': '41.8815281961', 'longitude': '-87.765373899'}'
+      landmark_designation_date: '1984-03-30'
     },
     {
       landmark_name: 'Charles Turzak House',
@@ -2628,8 +2493,7 @@ var markers = [
       architect: 'Bruce Goff',
       lat: 42.0095630785,
       lng: -87.8132519358,
-      landmark_designation_date: '1992-12-09',
-      location: '{'latitude': '42.0095630785', 'longitude': '-87.8132519358'}'
+      landmark_designation_date: '1992-12-09'
     },
     {
       landmark_name: 'Theurer-Wrigley House',
@@ -2641,8 +2505,7 @@ var markers = [
       architect: 'Richard E. Schmidt',
       lat: 41.9275524015,
       lng: -87.6395390064,
-      landmark_designation_date: '1979-08-10',
-      location: '{'latitude': '41.9275524015', 'longitude': '-87.6395390064'}'
+      landmark_designation_date: '1979-08-10'
     },
     {
       landmark_name: 'Holy Trinity Orthodox Cathedral and Rectory',
@@ -2654,8 +2517,7 @@ var markers = [
       architect: 'Louis H. Sullivan',
       lat: 41.9019437029,
       lng: -87.6817887088,
-      landmark_designation_date: '1979-03-21',
-      location: '{'latitude': '41.9019437029', 'longitude': '-87.6817887088'}'
+      landmark_designation_date: '1979-03-21'
     },
     {
       landmark_name: '(Former) Schlitz BreweryTied-House@2159 W.Belmont',
@@ -2667,8 +2529,7 @@ var markers = [
       architect: 'Charles Thisslew',
       lat: 41.9392502017,
       lng: -87.6830331298,
-      landmark_designation_date: '2011-07-06',
-      location: '{'latitude': '41.9392502017', 'longitude': '-87.6830331298'}'
+      landmark_designation_date: '2011-07-06'
     },
     {
       landmark_name: 'South Side Community Art Center',
@@ -2680,8 +2541,7 @@ var markers = [
       architect: 'Gustav Hallburg remod:1940;Hin Bredendieck&Lerner',
       lat: 41.8245859483,
       lng: -87.6226406573,
-      landmark_designation_date: '1994-06-16',
-      location: '{'latitude': '41.8245859483', 'longitude': '-87.6226406573'}'
+      landmark_designation_date: '1994-06-16'
     },
     {
       landmark_name: 'Jackson-Thomas House',
@@ -2693,8 +2553,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 42.010392421,
       lng: -87.6819294776,
-      landmark_designation_date: '1984-10-16',
-      location: '{'latitude': '42.010392421', 'longitude': '-87.6819294776'}'
+      landmark_designation_date: '1984-10-16'
     },
     {
       landmark_name: 'American School of Correspondence',
@@ -2706,8 +2565,7 @@ var markers = [
       architect: 'Pond & Pond',
       lat: 41.789753922,
       lng: -87.6041036284,
-      landmark_designation_date: '1995-04-15',
-      location: '{'latitude': '41.789753922', 'longitude': '-87.6041036284'}'
+      landmark_designation_date: '1995-04-15'
     },
     {
       landmark_name: 'Palmer House Hotel',
@@ -2719,8 +2577,7 @@ var markers = [
       architect: 'Holabird & Roche',
       lat: 41.8803068866,
       lng: -87.6269542177,
-      landmark_designation_date: '2006-12-13',
-      location: '{'latitude': '41.8803068866', 'longitude': '-87.6269542177'}'
+      landmark_designation_date: '2006-12-13'
     },
     {
       landmark_name: 'Engine Company 59, Truck 47',
@@ -2732,8 +2589,7 @@ var markers = [
       architect: 'Argyle E. Robinson',
       lat: 41.9857240595,
       lng: -87.6640331512,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.9857240595', 'longitude': '-87.6640331512'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'Schoenhofen Brewery',
@@ -2745,8 +2601,7 @@ var markers = [
       architect: 'Admin Bldg: Adolph Cudell',
       lat: 41.8580556905,
       lng: -87.6397318774,
-      landmark_designation_date: '1988-07-13',
-      location: '{'latitude': '41.8580556905', 'longitude': '-87.6397318774'}'
+      landmark_designation_date: '1988-07-13'
     },
     {
       landmark_name: 'Wheeler-Kohn House',
@@ -2758,8 +2613,7 @@ var markers = [
       architect: 'Otis L. Wheelock',
       lat: 41.8549118495,
       lng: -87.6195335943,
-      landmark_designation_date: '1998-02-05',
-      location: '{'latitude': '41.8549118495', 'longitude': '-87.6195335943'}'
+      landmark_designation_date: '1998-02-05'
     },
     {
       landmark_name: 'Abraham Lincoln Monument (\'Standing Lincoln\')',
@@ -2771,8 +2625,7 @@ var markers = [
       architect: 'A Saint-Gaudens,Sculptor & S White,Architect',
       lat: 41.9126040562,
       lng: -87.6302554195,
-      landmark_designation_date: '2001-12-12',
-      location: '{'latitude': '41.9126040562', 'longitude': '-87.6302554195'}'
+      landmark_designation_date: '2001-12-12'
     },
     {
       landmark_name: 'Perkins, Fellows & Hamilton Office and Studio',
@@ -2784,8 +2637,7 @@ var markers = [
       architect: 'Perkins, Fellows & Hamilton',
       lat: 41.8972320507,
       lng: -87.6250726676,
-      landmark_designation_date: '1993-12-01',
-      location: '{'latitude': '41.8972320507', 'longitude': '-87.6250726676'}'
+      landmark_designation_date: '1993-12-01'
     },
     {
       landmark_name: 'Lorraine Hansberry House',
@@ -2797,8 +2649,7 @@ var markers = [
       architect: 'Albert G. Ferree',
       lat: 41.7827387885,
       lng: -87.6124201046,
-      landmark_designation_date: '2010-02-10',
-      location: '{'latitude': '41.7827387885', 'longitude': '-87.6124201046'}'
+      landmark_designation_date: '2010-02-10'
     },
     {
       landmark_name: 'Henry Gerber House',
@@ -2810,8 +2661,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.9132133257,
       lng: -87.636030583,
-      landmark_designation_date: '2001-06-06',
-      location: '{'latitude': '41.9132133257', 'longitude': '-87.636030583'}'
+      landmark_designation_date: '2001-06-06'
     },
     {
       landmark_name: 'Union Stock Yard Gate',
@@ -2823,8 +2673,7 @@ var markers = [
       architect: 'Burnham and Root',
       lat: 41.8186287649,
       lng: -87.6486807529,
-      landmark_designation_date: '1972-02-24',
-      location: '{'latitude': '41.8186287649', 'longitude': '-87.6486807529'}'
+      landmark_designation_date: '1972-02-24'
     },
     {
       landmark_name: 'Kenna Apartments',
@@ -2836,8 +2685,7 @@ var markers = [
       architect: 'Barry Byrne',
       lat: 41.7701003115,
       lng: -87.5707982433,
-      landmark_designation_date: '1990-09-12',
-      location: '{'latitude': '41.7701003115', 'longitude': '-87.5707982433'}'
+      landmark_designation_date: '1990-09-12'
     },
     {
       landmark_name: 'Gauler Twin House',
@@ -2849,8 +2697,7 @@ var markers = [
       architect: 'Walter Burley Griffin',
       lat: 41.989611701,
       lng: -87.6611900539,
-      landmark_designation_date: '2000-06-28',
-      location: '{'latitude': '41.989611701', 'longitude': '-87.6611900539'}'
+      landmark_designation_date: '2000-06-28'
     },
     {
       landmark_name: 'Henry V. Peters House',
@@ -2862,8 +2709,7 @@ var markers = [
       architect: 'Walter Burley Griffin',
       lat: 41.9672199264,
       lng: -87.743669935,
-      landmark_designation_date: '2004-05-05',
-      location: '{'latitude': '41.9672199264', 'longitude': '-87.743669935'}'
+      landmark_designation_date: '2004-05-05'
     },
     {
       landmark_name: 'Daley Center',
@@ -2875,8 +2721,7 @@ var markers = [
       architect: 'C.F. Murphy Associates, Sculptor:Pablo Picasso',
       lat: 41.8838471156,
       lng: -87.6301830697,
-      landmark_designation_date: '2002-11-06',
-      location: '{'latitude': '41.8838471156', 'longitude': '-87.6301830697'}'
+      landmark_designation_date: '2002-11-06'
     },
     {
       landmark_name: 'Abraham Groesbeck House',
@@ -2888,8 +2733,7 @@ var markers = [
       architect: 'Otis L. Wheelock',
       lat: 41.8832908247,
       lng: -87.6600476639,
-      landmark_designation_date: '1993-01-12',
-      location: '{'latitude': '41.8832908247', 'longitude': '-87.6600476639'}'
+      landmark_designation_date: '1993-01-12'
     },
     {
       landmark_name: 'George Cleveland Hall Branch Library',
@@ -2901,8 +2745,7 @@ var markers = [
       architect: 'Charles Hodgdon',
       lat: 41.80711009,
       lng: -87.6223010197,
-      landmark_designation_date: '2010-02-10',
-      location: '{'latitude': '41.80711009', 'longitude': '-87.6223010197'}'
+      landmark_designation_date: '2010-02-10'
     },
     {
       landmark_name: 'Hazelton-Mikota House',
@@ -2914,8 +2757,7 @@ var markers = [
       architect: 'Architect Unknown',
       lat: 41.9810393623,
       lng: -87.7538785635,
-      landmark_designation_date: '2005-07-27',
-      location: '{'latitude': '41.9810393623', 'longitude': '-87.7538785635'}'
+      landmark_designation_date: '2005-07-27'
     },
     {
       landmark_name: 'Holden Block',
@@ -2927,8 +2769,7 @@ var markers = [
       architect: 'Stephen Vaughn Shipman',
       lat: 41.8814027295,
       lng: -87.6532522723,
-      landmark_designation_date: '2011-05-04',
-      location: '{'latitude': '41.8814027295', 'longitude': '-87.6532522723'}'
+      landmark_designation_date: '2011-05-04'
     },
     {
       landmark_name: 'Harriet F. Rees House',
@@ -2940,8 +2781,7 @@ var markers = [
       architect: 'Cobb & Frost',
       lat: 41.853922125,
       lng: -87.6211348779,
-      landmark_designation_date: '2012-03-14',
-      location: '{'latitude': '41.853922125', 'longitude': '-87.6211348779'}'
+      landmark_designation_date: '2012-03-14'
     },
     {
       landmark_name: 'Ransom R Cable House',
@@ -2953,8 +2793,7 @@ var markers = [
       architect: 'Cobb & Frost',
       lat: 41.8938801598,
       lng: -87.627165987,
-      landmark_designation_date: '2007-04-11',
-      location: '{'latitude': '41.8938801598', 'longitude': '-87.627165987'}'
+      landmark_designation_date: '2007-04-11'
     },
     {
       landmark_name: 'Mather Tower',
@@ -2966,8 +2805,7 @@ var markers = [
       architect: 'Herbert Hugh Riddle',
       lat: 41.8876059776,
       lng: -87.6254272014,
-      landmark_designation_date: '2001-03-07',
-      location: '{'latitude': '41.8876059776', 'longitude': '-87.6254272014'}'
+      landmark_designation_date: '2001-03-07'
     },
     {
       landmark_name: 'One North LaSalle Building',
@@ -2979,8 +2817,7 @@ var markers = [
       architect: 'K.M. Vizthum & Co with John Burns',
       lat: 41.8823136051,
       lng: -87.6320059355,
-      landmark_designation_date: '1996-04-16',
-      location: '{'latitude': '41.8823136051', 'longitude': '-87.6320059355'}'
+      landmark_designation_date: '1996-04-16'
     },
     {
       landmark_name: 'Allan Miller House',
@@ -2992,8 +2829,7 @@ var markers = [
       architect: 'John S Van Bergan',
       lat: 41.7654723018,
       lng: -87.5710108202,
-      landmark_designation_date: '1993-12-01',
-      location: '{'latitude': '41.7654723018', 'longitude': '-87.5710108202'}'
+      landmark_designation_date: '1993-12-01'
     },
     {
       landmark_name: 'Canaan Baptist Church of Christ Building',
@@ -3005,8 +2841,7 @@ var markers = [
       architect: 'Solon S. Beman',
       lat: 41.7729625919,
       lng: -87.6327811067,
-      landmark_designation_date: '2006-07-26',
-      location: '{'latitude': '41.7729625919', 'longitude': '-87.6327811067'}'
+      landmark_designation_date: '2006-07-26'
     },
     {
       landmark_name: 'Oliver Building',
@@ -3018,8 +2853,7 @@ var markers = [
       architect: 'Top Addit 1920;Holabird & Roche',
       lat: 41.8849392948,
       lng: -87.6292537203,
-      landmark_designation_date: '1984-05-09',
-      location: '{'latitude': '41.8849392948', 'longitude': '-87.6292537203'}'
+      landmark_designation_date: '1984-05-09'
     },
     {
       landmark_name: 'Jessie and William Adams House',
@@ -3031,8 +2865,7 @@ var markers = [
       architect: 'Frank Lloyd Wright',
       lat: 41.7239969488,
       lng: -87.6701901472,
-      landmark_designation_date: '1994-06-16',
-      location: '{'latitude': '41.7239969488', 'longitude': '-87.6701901472'}'
+      landmark_designation_date: '1994-06-16'
     },
     {
       landmark_name: 'Waller Apartments',
@@ -3044,8 +2877,7 @@ var markers = [
       architect: 'Frank Llyod Wright',
       lat: 41.8856316688,
       lng: -87.6983623347,
-      landmark_designation_date: '1994-03-02',
-      location: '{'latitude': '41.8856316688', 'longitude': '-87.6983623347'}'
+      landmark_designation_date: '1994-03-02'
     },
     {
       landmark_name: 'Fine Arts Building',
@@ -3057,8 +2889,7 @@ var markers = [
       architect: 'add & remod. 1898 Solon S. Beman',
       lat: 41.8764684299,
       lng: -87.624846173,
-      landmark_designation_date: '1978-06-07',
-      location: '{'latitude': '41.8764684299', 'longitude': '-87.624846173'}'
+      landmark_designation_date: '1978-06-07'
     },
     {
       landmark_name: '(Former) Schlitz BreweryTied-House@3159NSouthport',
@@ -3070,8 +2901,7 @@ var markers = [
       architect: 'Frommann and Jebsen',
       lat: 41.9396477129,
       lng: -87.663450898,
-      landmark_designation_date: '2011-07-06',
-      location: '{'latitude': '41.9396477129', 'longitude': '-87.663450898'}'
+      landmark_designation_date: '2011-07-06'
     },
     {
       landmark_name: 'Yondorf Block and Hall',
@@ -3083,8 +2913,7 @@ var markers = [
       architect: 'Frederick Ahlschlager',
       lat: 41.9111934157,
       lng: -87.6478690779,
-      landmark_designation_date: '2001-07-25',
-      location: '{'latitude': '41.9111934157', 'longitude': '-87.6478690779'}'
+      landmark_designation_date: '2001-07-25'
     },
     {
       landmark_name: 'Indian Boundary Park Fieldhouse',
@@ -3096,8 +2925,7 @@ var markers = [
       architect: 'Clarence Hatzfeld',
       lat: 42.0088761044,
       lng: -87.6925993315,
-      landmark_designation_date: '2005-05-11',
-      location: '{'latitude': '42.0088761044', 'longitude': '-87.6925993315'}'
+      landmark_designation_date: '2005-05-11'
     },
     {
       landmark_name: 'R.R. Donnelley & Sons Co. Calumet Plant',
@@ -3109,8 +2937,7 @@ var markers = [
       architect: 'Howard Van Doren Shaw',
       lat: 41.853680375,
       lng: -87.6182878093,
-      landmark_designation_date: '2004-03-31',
-      location: '{'latitude': '41.853680375', 'longitude': '-87.6182878093'}'
+      landmark_designation_date: '2004-03-31'
     },
     {
       landmark_name: 'Wendell Phillips High School',
@@ -3122,8 +2949,7 @@ var markers = [
       architect: 'William Bryce Mundie',
       lat: 41.8247514543,
       lng: -87.6198065344,
-      landmark_designation_date: '2003-05-07',
-      location: '{'latitude': '41.8247514543', 'longitude': '-87.6198065344'}'
+      landmark_designation_date: '2003-05-07'
     },
     {
       landmark_name: 'Chicago & North Western Railway Powerhouse',
@@ -3135,8 +2961,7 @@ var markers = [
       architect: 'Frost & Granger',
       lat: 41.8861888154,
       lng: -87.6409095654,
-      landmark_designation_date: '2006-01-11',
-      location: '{'latitude': '41.8861888154', 'longitude': '-87.6409095654'}'
+      landmark_designation_date: '2006-01-11'
     },
     {
       landmark_name: 'Shoreland Hotel',
@@ -3148,8 +2973,7 @@ var markers = [
       architect: 'Meyer Fridstein',
       lat: 41.7961879206,
       lng: -87.5814614219,
-      landmark_designation_date: '2010-09-08',
-      location: '{'latitude': '41.7961879206', 'longitude': '-87.5814614219'}'
+      landmark_designation_date: '2010-09-08'
     },
     {
       landmark_name: 'Page Brothers Building',
@@ -3161,8 +2985,7 @@ var markers = [
       architect: 'John M. Van Osdel,1902 State St facade:Hill',
       lat: 41.8854887622,
       lng: -87.6275898319,
-      landmark_designation_date: '1983-01-28',
-      location: '{'latitude': '41.8854887622', 'longitude': '-87.6275898319'}'
+      landmark_designation_date: '1983-01-28'
     },
     {
       landmark_name: 'Henry B Clarke House',
@@ -3174,8 +2997,7 @@ var markers = [
       architect: 'Unknown',
       lat: 41.8570668546,
       lng: -87.6218715857,
-      landmark_designation_date: '1970-10-14',
-      location: '{'latitude': '41.8570668546', 'longitude': '-87.6218715857'}'
+      landmark_designation_date: '1970-10-14'
     },
     {
       landmark_name: 'Blackstone Hotel',
@@ -3187,8 +3009,7 @@ var markers = [
       architect: 'Marshall & Fox',
       lat: 41.8733514222,
       lng: -87.6247754392,
-      landmark_designation_date: '1998-04-29',
-      location: '{'latitude': '41.8733514222', 'longitude': '-87.6247754392'}'
+      landmark_designation_date: '1998-04-29'
     },
     {
       landmark_name: 'Carbide and Carbon Building',
@@ -3200,8 +3021,7 @@ var markers = [
       architect: 'Burnham Brothers, Inc.',
       lat: 41.8865236143,
       lng: -87.6249948236,
-      landmark_designation_date: '1996-05-09',
-      location: '{'latitude': '41.8865236143', 'longitude': '-87.6249948236'}'
+      landmark_designation_date: '1996-05-09'
     },
     {
       landmark_name: 'All Saints Church and Rectory',
@@ -3213,8 +3033,7 @@ var markers = [
       architect: 'John C. Cochrane',
       lat: 41.9649452289,
       lng: -87.672948616,
-      landmark_designation_date: '1982-12-27',
-      location: '{'latitude': '41.9649452289', 'longitude': '-87.672948616'}'
+      landmark_designation_date: '1982-12-27'
     },
     {
       landmark_name: 'Old Dearborn Bank Building',
@@ -3226,8 +3045,7 @@ var markers = [
       architect: 'C.W. & George L. Rapp',
       lat: 41.8860572654,
       lng: -87.6260196521,
-      landmark_designation_date: '2003-06-04',
-      location: '{'latitude': '41.8860572654', 'longitude': '-87.6260196521'}'
+      landmark_designation_date: '2003-06-04'
     },
     {
       landmark_name: 'On Leong Merchants Association',
@@ -3239,8 +3057,7 @@ var markers = [
       architect: 'Michealsen & Rognstad',
       lat: 41.852373501,
       lng: -87.6323150739,
-      landmark_designation_date: '1993-12-01',
-      location: '{'latitude': '41.852373501', 'longitude': '-87.6323150739'}'
+      landmark_designation_date: '1993-12-01'
     },
     {
       landmark_name: 'Jewelers  Building',
@@ -3252,8 +3069,7 @@ var markers = [
       architect: 'Dankmar Adler with Louis H. Sullivan',
       lat: 41.8816174691,
       lng: -87.6256671687,
-      landmark_designation_date: '1981-12-08',
-      location: '{'latitude': '41.8816174691', 'longitude': '-87.6256671687'}'
+      landmark_designation_date: '1981-12-08'
     },
     {
       landmark_name: 'Former Chicago Historical Society Building',
@@ -3265,8 +3081,7 @@ var markers = [
       architect: 'Henry Ives Cobb',
       lat: 41.8934950442,
       lng: -87.630063442,
-      landmark_designation_date: '1997-02-26',
-      location: '{'latitude': '41.8934950442', 'longitude': '-87.630063442'}'
+      landmark_designation_date: '1997-02-26'
     },
     {
       landmark_name: 'Dr. Wallace C. Abbott House',
@@ -3278,8 +3093,7 @@ var markers = [
       architect: 'Dahlgren & Lievendahl - rear addit 1906 - unknown',
       lat: 41.9654298692,
       lng: -87.6720606011,
-      landmark_designation_date: '2006-03-01',
-      location: '{'latitude': '41.9654298692', 'longitude': '-87.6720606011'}'
+      landmark_designation_date: '2006-03-01'
     },
     {
       landmark_name: 'Lake-Franklin Group',
@@ -3291,8 +3105,7 @@ var markers = [
       architect: 'Burling & Adler, George Edbrooke. Addit 1896:Adler',
       lat: 41.8853688868,
       lng: -87.6351025338,
-      landmark_designation_date: '1977-02-26',
-      location: '{'latitude': '41.8853688868', 'longitude': '-87.6351025338'}'
+      landmark_designation_date: '1977-02-26'
     },
     {
       landmark_name: 'Heyworth Building',
@@ -3304,8 +3117,7 @@ var markers = [
       architect: 'D.H. Burnham & Co.',
       lat: 41.8818595588,
       lng: -87.6266873845,
-      landmark_designation_date: '2000-09-27',
-      location: '{'latitude': '41.8818595588', 'longitude': '-87.6266873845'}'
+      landmark_designation_date: '2000-09-27'
     },
     {
       landmark_name: 'Thalia Hall',
@@ -3317,8 +3129,7 @@ var markers = [
       architect: 'Faber & Pagels',
       lat: 41.8577101822,
       lng: -87.6572938552,
-      landmark_designation_date: '1989-10-25',
-      location: '{'latitude': '41.8577101822', 'longitude': '-87.6572938552'}'
+      landmark_designation_date: '1989-10-25'
     },
     {
       landmark_name: 'Palmolive Building',
@@ -3330,8 +3141,7 @@ var markers = [
       architect: 'Holabird & Root',
       lat: 41.899779462,
       lng: -87.623501521,
-      landmark_designation_date: '2000-02-16',
-      location: '{'latitude': '41.899779462', 'longitude': '-87.623501521'}'
+      landmark_designation_date: '2000-02-16'
     },
     {
       landmark_name: 'LaSalle Street Cable Car Powerhouse',
@@ -3343,8 +3153,7 @@ var markers = [
       architect: 'North Chicago Street Railroad Co.',
       lat: 41.8910391333,
       lng: -87.6329622566,
-      landmark_designation_date: '2001-06-27',
-      location: '{'latitude': '41.8910391333', 'longitude': '-87.6329622566'}'
+      landmark_designation_date: '2001-06-27'
     },
     {
       landmark_name: 'Quinn Chapel',
@@ -3356,8 +3165,7 @@ var markers = [
       architect: 'Henry F. Starbuck',
       lat: 41.8490730441,
       lng: -87.6250764052,
-      landmark_designation_date: '1977-08-31',
-      location: '{'latitude': '41.8490730441', 'longitude': '-87.6250764052'}'
+      landmark_designation_date: '1977-08-31'
     },
     {
       landmark_name: 'Peoples Gas-South Chicago Neighborhood Store',
@@ -3369,8 +3177,7 @@ var markers = [
       architect: 'George Grant Elmslie & Herman V. von Holst',
       lat: 41.7326484509,
       lng: -87.5509205468,
-      landmark_designation_date: '1996-04-16',
-      location: '{'latitude': '41.7326484509', 'longitude': '-87.5509205468'}'
+      landmark_designation_date: '1996-04-16'
     },
     {
       landmark_name: '(Former) Schlitz BreweryTied-House@1944 N.Oakley',
@@ -3382,8 +3189,7 @@ var markers = [
       architect: 'Kley  & Lang',
       lat: 41.917484239,
       lng: -87.6852556957,
-      landmark_designation_date: '2011-10-05',
-      location: '{'latitude': '41.917484239', 'longitude': '-87.6852556957'}'
+      landmark_designation_date: '2011-10-05'
     },
     {
       landmark_name: 'Getty Tomb',
@@ -3395,8 +3201,7 @@ var markers = [
       architect: 'Louis H. Sullivan',
       lat: 41.9612300749,
       lng: -87.6611886208,
-      landmark_designation_date: '1971-03-10',
-      location: '{'latitude': '41.9612300749', 'longitude': '-87.6611886208'}'
+      landmark_designation_date: '1971-03-10'
     },
     {
       landmark_name: 'Engine Company 129, Truck 50',
@@ -3408,8 +3213,7 @@ var markers = [
       architect: 'Argyle E. Robinson',
       lat: 41.746005133,
       lng: -87.6637057717,
-      landmark_designation_date: '2003-10-01',
-      location: '{'latitude': '41.746005133', 'longitude': '-87.6637057717'}'
+      landmark_designation_date: '2003-10-01'
     },
     {
       landmark_name: 'James Charnley House',
@@ -3421,8 +3225,7 @@ var markers = [
       architect: 'Adler and Sullivan, Frank Lloyd Wright',
       lat: 41.9076480171,
       lng: -87.627477823,
-      landmark_designation_date: '1972-08-20',
-      location: '{'latitude': '41.9076480171', 'longitude': '-87.627477823'}'
+      landmark_designation_date: '1972-08-20'
     },
     {
       landmark_name: 'Beeson House and Coach House',
@@ -3434,7 +3237,6 @@ var markers = [
       architect: 'Frederick Schock',
       lat: 41.8893178892,
       lng: -87.7706081072,
-      landmark_designation_date: '1999-01-20',
-      location: '{'latitude': '41.8893178892', 'longitude': '-87.7706081072'}'
+      landmark_designation_date: '1999-01-20'
     }
    ];
