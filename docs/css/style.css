@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: Ubuntu, sans-serif;
+  font-family: Karla, sans-serif;
 }
 
 html,
@@ -8,11 +8,13 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
+  background-color: #bfe7f6;
+  color: black;
 }
 
 /* Make button more visible */
 .btn{
-  background-color: #000066; 
+  background-color: #bfe7f6; 
   position: absolute;
   right: 50px;
   left: 40px;
@@ -25,6 +27,7 @@ body {
   min-height: 100%;
   padding-bottom: 130px;
   overflow: auto;
+  background-color: #bfe7f6;
 }
 
 /* The footer is positioned at the bottom of the page */
@@ -34,7 +37,7 @@ body {
   bottom: 0;
   left: 0;
   min-height: 100px;
-  background: #4e5d6c;
+  background: #bfe7f6;
 }
 
 /* The code styles the text at the bottom of the footer */
@@ -44,54 +47,100 @@ body {
   bottom: 0;
   left: 0;
   padding: 5px;
-  background: #1b3146;
+  background: #bfe7f6;
 }
 
 .navbar {
   padding: 5px;
   margin: 0;
+  background: #bfe7f6;
 }
 
-/* This CSS styles the ufo icon in the navbar */
-.nav-ufo {
-  position: absolute;
-  bottom: 5px;
-  left: 150px;
-  width: 35px;
-  color: white;
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color:#bfe7f6 ;
 }
-
-/* Adding styles to the aside and filter form */
-.ufo-form {
-  margin-top: 50px;
-}
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  }
+th {
+  height: 70px;
+  position: sticky;
+  top:0;
+  }
 
 .filters .panel-body {
   padding: 0;
+  background-color: #bfe7f6;
 }
 
 .filters {
   margin-top: 10px;
+  background-color: #bfe7f6;
+}
+div .panel{
+  border-style: groove; 
+  border-color: #bfe7f6; 
+}
+
+div .panel-heading{
+  background-color: #bfe7f6 !important; 
+  border-bottom-style: groove !important; 
+  border-bottom-color: #bfe7f6 !important;
+  color:whitesmoke !important;
+  position: relative; 
+}
+div .panel-body{
+  background-color: #bfe7f6 !important; 
+}
+
+ul #filters{
+  background-color: #bfe7f6 !important;
+  position: relative; 
+}
+
+.filters .panel-body {
+  padding: 0;
+  background-color: #bfe7f6
+}
+
+.filters {
+  margin-top: 10px;
+  background-color: #bfe7f6
 }
 
 select {
   display: block;
   width: 100%;
   padding: 8px;
-  color: #8e979f;
+  color: #bfe7f6;
   outline: none;
 }
 
+/* the table top */
 #table-area th {
-  text-align: center;
-  background-color: #1b1b641c;
+  text-align: left;
   color: white;
+  position : sticky;
+  top : 0;
+  background-color: #bfe7f6;
+}
+tr:hover {background-color:  white;}
+
+#table-area tr {
+  text-align: left;
+  color:black;
+  padding: 20px;
+  background-color: #bfe7f6;
 }
 
 #table-area th:first-child,
 #table-area th:nth-child(2),
 #table-area th:nth-child(6) {
-  min-width: 70px;
+  min-width: 100px;
 }
 
 .loader {
@@ -105,18 +154,19 @@ select {
 /* The styles for the parallax */
 .hero {
   position: relative;
-  height: 550px;
-  padding: 20px;
+  height: 50%;
+  padding: 40px;
   margin: 0;
-  background: black;
-  background-image: url("../images/ufo2.jpg");
+  background: #bfe7f6;
+  background-image: url("../img/chicago.png");
   background-attachment: fixed;
-  background-position: bottom center;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
 .hero h1 {
-  margin-top: 200px;
+  margin-top: 400px;
   font-size: 0.1rem;
   animation: title 1.2s forwards linear;
 }
@@ -131,44 +181,48 @@ select {
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #8e979f;
+  color: #bfe7f6;
 }
 
 .form-control::-moz-placeholder {
   /* Firefox 19+ */
-  color: #8e979f;
+  color: #bfe7f6;
 }
 
 .form-control:-ms-input-placeholder {
   /* IE 10+ */
-  color: #8e979f;
+  color: #bfe7f6;
 }
 
 .form-control:-moz-placeholder {
   /* Firefox 18- */
-  color: #8e979f;
+  color: #bfe7f6;
 }
 
 /* media queries which will only be activated at specific screen sizes */
 @media (max-width: 800px) {
   #table-area td {
     font-size: 1em;
+    background-color: #bfe7f6;
   }
 }
 
 @media (max-width: 500px) {
   #table-area thead {
     display: none;
+    background-color: #bfe7f6;
   }
 
   #table-area tr td:first-child {
-    font-size: 1.8em;
+    font-size: 1.0em;
     font-weight: bold;
-    background: #2c2f31;
+    background:#bfe7f6;
+    background-color: #bfe7f6;
   }
 
   #table-area tr td:last-child {
     margin-bottom: 20px;
+    background-color: #bfe7f6;
   }
 
   #table-area tr td:last-child::after {
@@ -177,28 +231,33 @@ select {
     height: 1px;
     margin-top: 20px;
     content: " ";
-    background: rgb(109, 113, 117);
+    background: #bfe7f6;
   }
 
   #table-area td {
-    font-size: 1.25em;
+    font-size: 5.0em;
+    background-color: #bfe7f6;
   }
 
   #table-area tbody td {
     display: block;
+    font-size: 5.0em;
     text-align: center;
+    background-color: #bfe7f6;
   }
 
   #table-area tbody td::before {
     display: block;
-    font-size: 1.4em;
+    font-size: 5.0em;
     font-weight: bold;
     text-align: center;
     content: attr(data-th);
+    background-color: #bfe7f6;
   }
 
   .hero h1 {
     animation: smaller-title 1.2s forwards linear;
+    background-color: #bfe7f6;
   }
 }
 

@@ -2,7 +2,7 @@
 let button = d3.select("#filter-btn");
 let inputField1 = d3.select("#designation_year");
 let tbody = d3.select("tbody");
-let columns = ["landmark_name", "id", "landmark_address", "designation_year", "start_built_year", "recognize_time", "architect", "lat", "lng", "landmark_designation_date"]
+let columns = ["landmark_name", "landmark_address", "designation_year", "start_built_year", "recognize_time", "architect", "landmark_designation_date"]
 
 let populate = (dataInput) => {
 
