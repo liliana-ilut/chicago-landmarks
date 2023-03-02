@@ -26,24 +26,28 @@ var myIcon = L.icon({
 
 var markerClusters = L.markerClusterGroup()
 
-for (var i = 0; i < markers.length; ++i) {
+for (var i = 0; i < markers.length; i++) {
   var popup =
-    markers[i].name +
-    '<br/>' +
-    markers[i].city +
-    '<br/><b>IATA/FAA:</b> ' +
-    markers[i].iata_faa +
-    '<br/><b>ICAO:</b> ' +
-    markers[i].icao +
-    '<br/><b>Altitude:</b> ' +
-    Math.round(markers[i].alt * 0.3048) +
-    ' m' +
-    '<br/><b>Timezone:</b> ' +
-    markers[i].tz
+    markers[i].landmark_name +
+    '<br/><b>name</b>' +
+    markers[i].landmark_address +
+    '<br/><b>address:</b> ' +
+    markers[i].architect +
+    '<br/><b>architect:</b> ' +
+    markers[i].start_built_year +
+    '<br/><b>Built year:</b> ' +
+    markers[i].designation_year +
+    '<br/><b>Designation year:</b> ' 
+    // +
+    // Math.round(markers[i].alt * 0.3048) +
+    // ' m' +
+    // '<br/><b>Timezone:</b> ' +
+    // markers[i].tz
 
   var m = L.marker([markers[i].lat, markers[i].lng], {
     icon: myIcon,
   }).bindPopup(popup)
+  // }).bindPopup("<h5>" + "Street Address: " + "</h5>" + "<h4>" + landmark_address + "</h4><h5> Landmark Name: </h5>" + "<h4>" + landmark_name + "</h>")
 
   markerClusters.addLayer(m)
 }
