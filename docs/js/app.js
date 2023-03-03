@@ -32,7 +32,7 @@ button.on("click", () => {
     populate(filterDate);
   }
     else {
-      tbody.append("tr").append("td").text("No results found!"); 
+      tbody.append("tr").append("td").text("No landmarks were designatated that year!"); 
     }
 })
 
