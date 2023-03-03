@@ -14,7 +14,7 @@ body {
 
 /* Make button more visible */
 .btn{
-  background-color: #bfe7f6; 
+  background-color: black; 
   position: absolute;
   right: 50px;
   left: 40px;
@@ -90,7 +90,7 @@ div .panel-heading{
   background-color: #bfe7f6 !important; 
   border-bottom-style: groove !important; 
   border-bottom-color: #bfe7f6 !important;
-  color:whitesmoke !important;
+  color:black !important;
   position: relative; 
 }
 div .panel-body{
@@ -100,6 +100,11 @@ div .panel-body{
 ul #filters{
   background-color: #bfe7f6 !important;
   position: relative; 
+}
+
+.filter{
+  background-color: #bfe7f6;
+  position: relative;
 }
 
 .filters .panel-body {
@@ -182,21 +187,25 @@ tr:hover {background-color:  white;}
 .form-control::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   color: #bfe7f6;
+  position: relative;
 }
 
 .form-control::-moz-placeholder {
   /* Firefox 19+ */
   color: #bfe7f6;
+  position: relative;;
 }
 
 .form-control:-ms-input-placeholder {
   /* IE 10+ */
   color: #bfe7f6;
+  position: relative;;
 }
 
 .form-control:-moz-placeholder {
   /* Firefox 18- */
   color: #bfe7f6;
+  position: relative;;
 }
 
 /* media queries which will only be activated at specific screen sizes */
