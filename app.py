@@ -14,7 +14,7 @@ from sqlalchemy import create_engine
 
 
 
-engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/women_in_power')
+engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/landmark')
 Base = automap_base()
 Base.prepare(engine, reflect=True)
 
